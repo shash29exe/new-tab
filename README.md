@@ -5,4 +5,4 @@
 # new-tab
 ## A simple page for a new tab
 
-[GitHub Pages](shash29exe.github.io/new-tab)
+[GitHub Pages](https://shash29exe.github.io/new-tab)
