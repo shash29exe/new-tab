@@ -1,0 +1,21 @@
+body {
+    background: url("/bg.avif") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.search {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 260px;
+    border-radius: 2px;
+    font-size: 7px;
+    padding: 7px;
+    width: 350px;
+    transform: scale(2.2);
+    text-size-adjust: 1px;
+    background-color: #42414d;
+    color: white;
+    outline: none;
+    border: none;
+}
